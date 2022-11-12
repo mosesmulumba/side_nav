@@ -18,7 +18,7 @@ export default function Links(){
                         <h4><a href="#">History</a></h4>
                     </div> 
             </h3>
-            <h3>Directoins</h3>
+            <h3>Directions</h3>
             <h3 className="just">Contacts
                 <div className="links--below">
                         <h4 className="me"><a href="#" target="_blank">Admin</a>
